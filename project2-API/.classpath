@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="com/javamaster/project2/service/" kind="src" path="project2-API/src/main/java"/>
+	<classpathentry kind="src" path="project2-API/src/main/java/com/javamaster/project2/service"/>
+	<classpathentry kind="src" path="project2-API/src/test/java"/>
+	<classpathentry kind="output" path="project2-API/target/classes"/>
+</classpath>
